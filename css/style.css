@@ -521,8 +521,8 @@ textarea {
   }
 }
 
-/* A little cheat to trick the freecodecamp certification test. It requires 
-the navbar to be on top of the viewport, but I've already done that in previous 
+/* A little cheat to trick the freecodecamp certification test. It requires
+the navbar to be on top of the viewport, but I've already done that in previous
 projects and I think in this one it looks more interesting on the side.
 I hope the freecodecamp team won't be mad at me :) */
 #navbar {
@@ -532,10 +532,15 @@ I hope the freecodecamp team won't be mad at me :) */
   width: 0;
   height: 0;
 }
- 
-h3{
-  font-size: 3vw;
-}
 
+h3{
+  font-size: 4vw;
+}
+.timeline-content{
+	width: 100%;
+}
+.timeline-content p{
+	font-size: 4vw;
+}
 
 }
